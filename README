@@ -1,0 +1,21 @@
+Wishlist:
+    github page with documentation 
+    compiler / builder
+    variables
+    functions
+    loops
+    
+    installer
+        - clone repo
+        - install cmake / ninja
+
+Todo: 
+    learn cmake 
+    figure out how to pass argument to C program
+
+Build:
+alloy build file.al | alloy -b file.al -> alloy -b -r file.al
+
+alloy run file.al
+
+
