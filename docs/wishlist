@@ -1,0 +1,20 @@
+variables
+functions 
+loops (while, for)
+classes 
+mutable by default or immutable by default?
+
+keywords:
+
+library:
+crypto
+networking, requests, sockets
+multithreading 
+math 
+
+
+Build:
+alloy build file.al | alloy -b file.al -> alloy -b -r file.al
+
+alloy run file.al
+

@@ -1,10 +1,15 @@
 
 #include <stdio.h>
 
-void preprocess(){
-    while(1){
-
-    }
+void toBytes(){
+    // switch(instruction){
+    //     case 1:
+    //         printf("hello");
+    //         break;
+    //     default:
+    //         print("variable");
+    //         break;
+    // }
 }
 
 int main(int argc, char *argv[]){

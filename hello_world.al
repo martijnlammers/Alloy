@@ -1,9 +1,3 @@
-
-
-
-
-Class hello = 5
-
-
-hello: Class = 5
-
+var: Int = 5
+# Test  
+print(var)

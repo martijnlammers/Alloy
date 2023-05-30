@@ -1,0 +1,18 @@
+Build and testing tool:
+    CMake + Ninja:
+        Pros:
+            - Speed comparable to meson  
+            - Higher in popularity
+            - C/C++ support
+            - Building + unit testing 
+            - Open source.
+        Con:
+            - Vanilla CMake is slow
+            - Really nasty syntax :/
+        Note: 
+            - There is currently no scalability requirement for build 
+            tool. But might as well because Ninja at worst keeps the 
+            build time the same, and at best makes the compile time 
+            infinitely better than standard CMake.
+            - Learn CMake; https://cmake.org/documentation/
+            - Learn Ninja; https://ninja-build.org/
